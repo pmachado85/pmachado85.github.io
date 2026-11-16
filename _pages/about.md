@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><em>a cold day in Chicago</em></p>
+    <p>Chicago, IL</p>
     <p>pmachado@fnal.gov<br>machado.phys@gmail.com</p>
 
 selected_papers: true # papers marked selected = "true" in _bibliography/papers.bib
