@@ -30,7 +30,7 @@ My work connects theory with experiments. I develop models of new physics, compu
 
 - Leading research projects and teams: Principal Investigator of a DOE SciDAC project (USD 3.25M, 2025) and recipient of a DOE Early Career Award (USD 2.5M, 2019).
 - Statistical analysis of large datasets, global fits, and sensitivity studies.
-- Scientific software: Monte Carlo event generators such as [Achilles](https://arxiv.org/abs/2205.06378), machine learning for event reconstruction, and AI-assisted software workflows.
+- Scientific software: Monte Carlo event generators such as [Achilles](https://github.com/AchillesGen/Achilles), machine learning for event reconstruction, and AI-assisted software workflows.
 - Coordination and service: co-coordinator of Fermilab's Neutrino Physics Center, chair of the Neutrino Theory Network steering committee, member of the DUNE Program Committee.
 - Teaching and communication: lectures at international summer schools and talks for general audiences.
 

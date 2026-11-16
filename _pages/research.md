@@ -27,7 +27,7 @@ Key papers: [arXiv:1912.06658](https://arxiv.org/abs/1912.06658), [arXiv:1907.08
 
 ### Simulation of neutrino interactions
 
-Interpreting neutrino data requires accurate simulations of how neutrinos interact with atomic nuclei. I co-develop [Achilles](https://arxiv.org/abs/2205.06378), a Monte Carlo [event generator](https://en.wikipedia.org/wiki/Event_generator) for electron- and neutrino-nucleus scattering, and study how modeling uncertainties affect measurements.
+Interpreting neutrino data requires accurate simulations of how neutrinos interact with atomic nuclei. I co-develop [Achilles](https://github.com/AchillesGen/Achilles), a Monte Carlo [event generator](https://en.wikipedia.org/wiki/Event_generator) for electron- and neutrino-nucleus scattering, and study how modeling uncertainties affect measurements.
 
 Key papers: [arXiv:2502.19467](https://arxiv.org/abs/2502.19467), [arXiv:2210.03753](https://arxiv.org/abs/2210.03753), [arXiv:2205.06378](https://arxiv.org/abs/2205.06378)
 
