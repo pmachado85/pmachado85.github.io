@@ -1,0 +1,149 @@
+cv:
+  name: Pedro A. N. Machado
+  label: Scientist, Fermi National Accelerator Laboratory
+  email: pmachado@fnal.gov, machado.phys@gmail.com
+  location: Batavia, IL, USA
+  image: ""
+  summary: Theoretical physicist working on neutrino physics, new physics searches, simulation, and machine learning for physics data analysis.
+
+  social_networks:
+    - network: GitHub
+      username: pmachado85
+    - network: LinkedIn
+      username: pedro-machado-938858279
+
+  sections:
+    Experience:
+      - company: Fermi National Accelerator Laboratory
+        position: Scientist, Theory Division
+        location: Batavia, IL, USA
+        start_date: 2021-08
+        end_date: present
+      - company: Fermi National Accelerator Laboratory
+        position: Associate Scientist
+        location: Batavia, IL, USA
+        start_date: 2017-12
+        end_date: 2021-08
+      - company: Fermi National Accelerator Laboratory
+        position: Research Associate (postdoc)
+        location: Batavia, IL, USA
+        start_date: 2016-10
+        end_date: 2017-12
+      - company: IFT, Universidad Autónoma de Madrid
+        position: Postdoctoral fellow
+        location: Madrid, Spain
+        start_date: 2013-10
+        end_date: 2016-09
+
+    Education:
+      - institution: University of São Paulo
+        location: São Paulo, Brazil
+        area: Physics
+        studyType: PhD
+        start_date: 2009
+        end_date: 2013
+        highlights:
+          - "Thesis: Topics in neutrino physics. Supervisor: Renata Zukanovich Funchal."
+          - Research stays at Fermilab (6 months), CEA-Saclay (18 months) and CERN (3 months).
+      - institution: University of São Paulo
+        location: São Paulo, Brazil
+        area: Physics
+        studyType: MSc
+        start_date: 2007
+        end_date: 2009
+      - institution: Federal University of Ceará
+        location: Fortaleza, Brazil
+        area: Physics
+        studyType: BSc
+        start_date: 2003
+        end_date: 2007
+
+    Awards:
+      - title: Exceptional Performance Recognition Award
+        awarder: Fermilab
+        date: 2026
+      - title: PI, DOE SciDAC project NeuCol (USD 3.25M)
+        awarder: U.S. Department of Energy
+        date: 2025
+      - title: URA Early Career Award
+        awarder: Universities Research Association
+        date: 2021
+        url: https://www.ura-hq.org/awards/ura-early-career-award/
+      - title: "DOE Early Career Award: The Next Revolution in Neutrino Physics (USD 2.5M)"
+        awarder: U.S. Department of Energy
+        date: 2019
+        url: https://science.osti.gov/early-career
+      - title: Honorable mention, José Leite Lopes Prize for the best Brazilian PhD thesis in physics
+        awarder: Brazilian Physical Society
+        date: 2014
+      - title: Marie Curie PhD fellowship (UNILHC-ITN), IPhT-CEA Saclay and CERN
+        awarder: European Commission
+        date: 2011
+
+    Leadership and service:
+      - company: DUNE Program Committee
+        position: Member
+        start_date: 2026
+        end_date: present
+      - company: Neutrino Theory Network
+        position: Chair, Scientific Steering Committee
+        start_date: 2024
+        end_date: present
+      - company: Fermilab Neutrino Physics Center
+        position: Co-coordinator
+        start_date: 2023
+        end_date: present
+      - company: Fermilab Wine and Cheese Seminar
+        position: Organizer
+        start_date: 2025
+        end_date: present
+      - company: Fermilab Physics Advisory Committee
+        position: Member
+        start_date: 2020
+        end_date: 2023
+      - company: URA Early Career Award committee
+        position: Member
+        start_date: 2022
+        end_date: 2025
+      - company: Snowmass 2021
+        position: Convener, Sterile Neutrino topical group
+        start_date: 2020
+        end_date: 2022
+      - company: Conferences and schools
+        position: Organizer of more than 20 workshops and schools since 2015
+        start_date: 2015
+        end_date: present
+
+    Collaborations:
+      - company: SBND
+        position: Member
+        start_date: 2023
+        end_date: present
+      - company: vIOLETA
+        position: Member
+        start_date: 2020
+        end_date: present
+      - company: DUNE
+        position: Member
+        start_date: 2019
+        end_date: present
+
+    Skills:
+      - name: Programming
+        keywords: "Python, C/C++, Fortran, Mathematica"
+      - name: Methods
+        keywords: "Statistical inference, global fits, Monte Carlo simulation, machine learning"
+      - name: AI-assisted development
+        keywords: "Design and use of agentic AI workflows to build and maintain research software and analysis pipelines"
+
+    Languages:
+      - name: Portuguese
+        summary: Native
+      - name: English
+        summary: Fluent
+      - name: Spanish
+        summary: Advanced
+      - name: French
+        summary: Intermediate
+      - name: Italian
+        summary: Basic
